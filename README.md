@@ -1,9 +1,10 @@
 # CO2 Emissions Analysis: Russia (1990–2024)
 
-**Student:** Brent B. Al-os 
+**Student:** Brent B. Al-os
 
-**Country / ISO-3:** Russia / RUS  
-**Study period:** 1990 to 2024  
+**Country / ISO-3:** Russia / RUS
+
+**Study period:** 1990 to 2024
 
 ## Research Question
 
