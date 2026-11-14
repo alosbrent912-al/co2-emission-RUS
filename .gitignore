@@ -1,0 +1,5 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+data/owid-co2-data.csv
