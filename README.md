@@ -1,3 +1,4 @@
+
 # CO2 Emissions Analysis: Russia (1990–2024)
 
 **Student:** Rachelle Quebec  
@@ -90,3 +91,4 @@ International Monetary Fund. (1999). *Russia: Recent Economic Developments*. IMF
 Our World in Data. (n.d.). *CO2 and Greenhouse Gas Emissions*. https://github.com/owid/co2-data
 
 Our World in Data. (n.d.). *CO2 emissions dataset (CSV)*. https://owid-public.owid.io/data/co2/owid-co2-data.csv
+
